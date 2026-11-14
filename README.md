@@ -1,6 +1,7 @@
 # Fleurique 🌸
 
 A pixel-art bouquet builder where you can pick flowers, arrange them into a bouquet, write a letter, and share it with someone special.
+**[Live demo → fleurique.vercel.app](https://fleurique.vercel.app/)**
 
 ## What it does
 
